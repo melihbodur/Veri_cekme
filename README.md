@@ -8,5 +8,5 @@ Bir alışveriş sitesinden Beautifulsoup ve Selenium kütüphanelerini kullanar
 Kodumuza --headless ekleyerek veri çekilen ekranın açılmasını engellemiş oluruz. Veri çekme işlemi aynı şekilde devam eder.
 
 
-
+https://www.youtube.com/watch?v=SxfjzJL_U2k&t
 
